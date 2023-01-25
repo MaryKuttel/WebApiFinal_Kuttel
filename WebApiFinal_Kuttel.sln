@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWProvincias_Kuttel", "SWProvincias_Kuttel\SWProvincias_Kuttel.csproj", "{A52C2D01-9156-4287-8A1D-0CE1C1B88B68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWAdventureWorks_Kuttel", "SWAdventureWorks_Kuttel\SWAdventureWorks_Kuttel.csproj", "{2434C5B7-752B-4675-8D98-5B24B3A329B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52C2D01-9156-4287-8A1D-0CE1C1B88B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52C2D01-9156-4287-8A1D-0CE1C1B88B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52C2D01-9156-4287-8A1D-0CE1C1B88B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52C2D01-9156-4287-8A1D-0CE1C1B88B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2434C5B7-752B-4675-8D98-5B24B3A329B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2434C5B7-752B-4675-8D98-5B24B3A329B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2434C5B7-752B-4675-8D98-5B24B3A329B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2434C5B7-752B-4675-8D98-5B24B3A329B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07F9667-4BE1-45EB-870F-317BDCEDC1BE}
+	EndGlobalSection
+EndGlobal
